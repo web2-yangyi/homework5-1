@@ -1,0 +1,35 @@
+h2{
+				color: #333;
+				text-shadow:#ccc 5px 5px 5px;
+				text-align: center;
+			}
+			h3{
+				text-align: center;
+				color: #999;
+			}
+			#p1{
+				text-align: center;
+				color: #333;
+			}
+			span{
+				color: red;
+			}
+			 img{
+			 	display: block;
+				margin: 0 auto;
+			}
+			#p2{
+				line-height:40px;
+				font-style: italic;
+				color: #333;
+				font-size: 14px;
+				margin-left: 30px;
+			}
+			h4{
+				margin-left: 30px;
+			}
+			.p3{
+				line-height:25px;
+				color: #333;
+				text-indent: 2em;
+			}
